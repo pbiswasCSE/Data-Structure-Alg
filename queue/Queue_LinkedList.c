@@ -18,6 +18,7 @@ void enqueue(struct Node *f,struct Node *b,int val){
 
 
 
+
 int main(){
 
 struct Node *fore=NULL;
